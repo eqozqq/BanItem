@@ -3,15 +3,11 @@ Blocking items, with logs and auto-deletion
 
 # Commands
 
-```
-/item ban/unban
-```
+`/item ban/unban`
 
 # Permission
 
-```
-itemban.admin
-```
+`itemban.admin`
 
 # Config
 
