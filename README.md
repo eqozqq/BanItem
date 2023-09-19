@@ -1,4 +1,4 @@
-# BanItem
+# BanItem 0.14x
 Blocking items, with logs and auto-deletion
 
 # Commands
