@@ -3,13 +3,13 @@ Blocking items, with logs and auto-deletion
 
 # Commands
 
-```bash
+```
 /item ban/unban
 ```
 
 # Permission
 
-```bash
+```
 itemban.admin
 ```
 
