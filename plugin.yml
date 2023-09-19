@@ -1,0 +1,11 @@
+name: BanItem
+version: "0.1"
+api: ["1.0.0"]
+main: net.eqozqq.BanItem.BanItem
+author: "eqozqq"
+description: "Blocking items, with logs and auto-deletion"
+commands:
+  item:
+    description: Item ban/unban
+    usage: /item <ban/unban> <id>
+    permission: itemban.admin
